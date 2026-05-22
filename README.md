@@ -1,4 +1,4 @@
-# Aether — Premium Social Media Platform
+# Aether - Premium Social Media Platform
 
 Aether is a feature-rich, high-performance, and visually stunning social media platform inspired by modern interfaces like Instagram and Facebook. It features a responsive React Native Expo frontend supporting iOS, Android, and Web browsers, paired with a robust Node.js microservices backend architecture utilizing WebSockets and high-performance databases.
 
